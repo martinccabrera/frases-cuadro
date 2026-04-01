@@ -1,14 +1,22 @@
 [
   {
-    "texto": "Nada sin ti, nada sin nosotros.",
+    "linea1": "Nada sin Ti,",
+    "linea2": "nada sin nosotros.",
+    "autor": "Materia Ter Admirabilis"
+  },
+  {
+    "linea1": "Ella es la gran misionera,",
+    "linea2": "Ella obrará milagros.",
     "autor": "P. José Kentenich"
   },
   {
-    "texto": "Las cosas grandes y hermosas siempre crecen en silencio.",
-    "autor": "P. José Kentenich"
+    "linea1": "¡Id y haced discípulos!",
+    "linea2": "La misión nos llama.",
+    "autor": "Grupo Partida"
   },
   {
-    "texto": "Quien tiene una gran misión ha de cumplirla.",
-    "autor": "P. José Kentenich"
+    "linea1": "Sobre toda cosa guardada,",
+    "linea2": "guarda tu corazón.",
+    "autor": "Proverbios 4:23"
   }
 ]
