@@ -5,10 +5,20 @@
 "autor": "Mater Ter Admirabilis"
 },
 {
+"linea1": "La familia que reza unida,",
+"linea2": "permanece siempre unida.",
+"autor": "Madre Teresa de Calcuta"
+},
+{
 "linea1": "Ella es la gran misionera,",
 "linea2": "Ella obrará milagros.",
 "autor": "P. José Kentenich"
 },
+{
+"linea1": "Ya sea que vivamos o muramos,",
+"linea2": "del Señor somos.",
+"autor": "Romanos 14:8"
+} ,
 {
 "linea1": "No te digo hasta 7 veces,",
 "linea2": "sino hasta 70 veces 7",
@@ -20,6 +30,11 @@
 "autor": "Schoenstatt"
 },
 {
+"linea1": "Qué bueno y agradable es",
+"linea2": "que los hermanos vivan unidos.",
+"autor": "Salmo 133:1"
+},
+{
 "linea1": "Yo vengo del Amor,",
 "linea2": "vivo y vuelvo al Amor.",
 "autor": "P. José Kentenich"
@@ -28,6 +43,11 @@
 "linea1": "Servus Mariae",
 "linea2": "nunquam peribit.",
 "autor": "Fritz Esser"
+},
+{
+"linea1": "Yo soy la resurrección y la vida;",
+"linea2": "el que cree en mí, vivirá.",
+"autor": "Juan 11:25"
 },
 {
 "linea1": "María, hazme instrumento",
@@ -58,6 +78,11 @@
 "linea1": "Todo lo puedo en Aquel",
 "linea2": "que me fortalece.",
 "autor": "Filipenses 4:13"
+},
+{
+"linea1": "Dale, Señor, el descanso eterno,",
+"linea2": "y brille para él la luz perpetua.",
+"autor": "Liturgia Católica"
 },
 {
 "linea1": "El Señor es mi pastor,",
@@ -198,7 +223,13 @@
 "linea1": "Dios es fiel,",
 "linea2": "siempre lo será.",
 "autor": "1 Corintios 1:9"
+},
+{
+"linea1": "La familia es el santuario",
+"linea2": "donde nace y crece el amor.",
+"autor": "San Juan Pablo II"
 }
+  
 ]
 
 
